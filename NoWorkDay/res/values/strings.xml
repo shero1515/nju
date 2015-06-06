@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">njuer</string>
+    <string name="header_name">header</string>
+    <string name="page_content">content</string>
+    <string name="main_news_text">main news text</string>
+	<string name="menu_login">menu login</string>
+    <string name="post_list_view_image">post</string>
+</resources>
